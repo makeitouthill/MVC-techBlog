@@ -1,0 +1,7 @@
+{
+  "name": "MVC-techBllog",
+  "description": "A Tech Blog site, where users can post and interact with blog posts",
+  "repository": "https://github.com/makeitouthill/MVC-techBlog",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["MVC", "node", "express", "heroku"]
+}

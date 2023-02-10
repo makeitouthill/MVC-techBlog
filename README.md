@@ -20,7 +20,7 @@ Visit Url
 
 ## Usage {#usage}
         
-Once you visited url you can see main view, if you click on home, you are redirect to homepage url, when you click dashboard the application can't finddashboard.handlebars view.
+Once you visited url you can see main view, if you click on home, you are redirect to homepage url, when you click dashboard the application can't find dashboard.handlebars view.
         
 ## License {#license}
         
